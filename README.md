@@ -1,4 +1,5 @@
 # apna-colleege
 this my first reporitory
 <br>
-Auther-shivani sahu
+Author - shivani sahu(student)
+branch
